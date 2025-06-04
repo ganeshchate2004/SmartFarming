@@ -76,12 +76,12 @@ This project is built to increase productivity, reduce losses, and empower farme
 
 
 ###Setup Frontend
-- cd ../frontend
+- cd frontend
 - npm install
 - npm run dev
 
 ###Setup Backend
-- cd ../backend
+- cd backend
 - npm install
 - node app.js
 
