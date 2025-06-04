@@ -76,19 +76,20 @@ This project is built to increase productivity, reduce losses, and empower farme
 
 
 ###Setup Frontend
-cd ../client
-npm install
-npm start
+- **cd ../frontend
+- **npm install
+- **npm run dev
 
 ###Setup Backend
-cd ../server
-npm install
+- **cd ../backend
+- **npm install
+- **node app.js
 
 npm start
 ###Setup Flask AI model
-cd ai-model
-pip install -r requirements.txt
-python app.py
+- **cd ai-model
+- **pip install -r requirements.txt
+- **python app.py
 
 
 
