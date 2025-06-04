@@ -92,5 +92,10 @@ npm start
 - python app.py
 
 
+###Hardware connection diagram
+![image](https://github.com/user-attachments/assets/cad437da-026a-475a-a95b-27820747472e)
+
+
+
 
 
