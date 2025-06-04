@@ -69,27 +69,27 @@ This project is built to increase productivity, reduce losses, and empower farme
 ## 🔌 Hardware Setup
 
 - Connect NodeMCU to:
-  - **Moisture sensor**
-  - **DHT11 sensor**
+  - Moisture sensor**
+  - DHT11 sensor**
 - Program it to send data to Express backend every few seconds/minutes
 - Data is stored in MongoDB and visualized on frontend
 
 
 ###Setup Frontend
-- **cd ../frontend
-- **npm install
-- **npm run dev
+- cd ../frontend
+- npm install
+- npm run dev
 
 ###Setup Backend
-- **cd ../backend
-- **npm install
-- **node app.js
+- cd ../backend
+- npm install
+- node app.js
 
 npm start
 ###Setup Flask AI model
-- **cd ai-model
-- **pip install -r requirements.txt
-- **python app.py
+- cd ai-model
+- pip install -r requirements.txt
+- python app.py
 
 
 
